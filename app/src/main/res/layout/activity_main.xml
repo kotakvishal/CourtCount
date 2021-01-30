@@ -28,7 +28,6 @@
                 android:gravity="center"
                 android:text="Team A"
                 android:textSize="36sp" />
-
             <TextView
                 android:id="@+id/TeamB"
                 android:layout_width="wrap_content"
@@ -38,7 +37,6 @@
                 android:text="Team B"
                 android:textSize="36sp" />
         </LinearLayout>
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="120dp"
@@ -53,7 +51,6 @@
                 android:text="0"
                 android:textSize="70sp"
                 android:textStyle="bold" />
-
             <TextView
                 android:id="@+id/ScoreB"
                 android:layout_width="wrap_content"
