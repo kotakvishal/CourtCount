@@ -16,4 +16,4 @@ It is built in android studio.
 * We can reset the scores for the next game using Reset button.
 
 ## Built for
-Android App or tablets (Api level 14 or above).
+Android phones or tablets(JellyBean or above).
